@@ -1,5 +1,6 @@
 # componentes
 Componentes_reutilizaveis -> INTERFACE
+(valor_estadia.java)
 
 DEFINICAO
 A interface, recurso utilizado na maioria das linguagens orientadas a objeto, é um tipo que define um conjunto de operações que uma classe deve implementar.
