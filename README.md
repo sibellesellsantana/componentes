@@ -5,6 +5,7 @@ Componentes_reutilizaveis -> INTERFACE
 DEFINICAO
 A interface, recurso utilizado na maioria das linguagens orientadas a objeto, é um tipo que define um conjunto de operações que uma classe deve implementar.
 A interface estabelece um contrato que a classe deve cumprir.
+Dentro das interfaces existem somente assinaturas de métodos, cabendo à classe que a utilizará realizar a implementação das assinaturas.
 Os métodos podem ser implementados em cada classe de maneira diferente.
 O seu uso permite criar sistemas com baixo acoplamnento e flexíveis. 
 
